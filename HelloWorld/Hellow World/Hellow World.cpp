@@ -7,7 +7,14 @@ int main()
 {
     std::cout << "Hello World!\n";
     std::cout << "Hello Saurabh!\n";
+    std::cout << "Test Successful.\n";
     //comemt
+}
+
+int addition(int a, int b)
+{
+    int c = a + (2 * b);
+    return  c;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
