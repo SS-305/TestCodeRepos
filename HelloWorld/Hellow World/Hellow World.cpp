@@ -10,6 +10,12 @@ int main()
     //comemt
 }
 
+
+int addition(int a, int b)
+{
+    int c = a + b;
+    return  c;
+}
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 
