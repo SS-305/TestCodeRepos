@@ -17,6 +17,10 @@ int addition(int a, int b)
     return  c;
 }
 
+double plus() {
+    return 45;
+}
+
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 
