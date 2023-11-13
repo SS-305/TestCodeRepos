@@ -11,13 +11,14 @@ int main()
     //comemt
 }
 
-
-
-
 int addition(int a, int b)
 {
     int c = a + (2 * b);
     return  c;
+}
+
+double plus() {
+    return 45;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
